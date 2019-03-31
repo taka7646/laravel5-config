@@ -227,5 +227,9 @@ return [
         'View' => Illuminate\Support\Facades\View::class,
 
     ],
+    'settingArray' => [
+        'key1' => 'value1',
+        'key2' => 'value2',
+    ],
 
 ];
